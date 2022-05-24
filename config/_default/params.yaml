@@ -6,7 +6,7 @@
 # Appearance
 
 theme: "custom" #switch from minimal to "custom"
-day_night: false
+day_night: true
 font: ''
 font_size: "M"
 
@@ -18,26 +18,7 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
 
-# email: test@example.org
-# phone: 888 888 88 88
-# address:
-#   street: 1231 Libbie Coy Way
-#   city: Fort Collins
-#   region: CO
-#   postcode: '80523'
-#   country: United States
-#   country_code: US
-# coordinates:
-#   latitude: '40.5722749461905'
-#   longitude: '-105.08074359853414'
-# directions: Room ____ (South Entrance, Second Floor)
-# contact_links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: DM our Twitter!
-#     link: 'https://twitter.com/Twitter'
 
 
 
@@ -92,7 +73,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under {MIT License}'
 abstract_length: 135
 plugins_js: []
 avatar:
