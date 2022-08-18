@@ -8,10 +8,10 @@ weight: 50
 
 # Alumni
 
-### Natalie Schmer - former MS student, currently a hydrologist at the USGS Pennsylvania Water Science Center
+#### [*Natalie Schmer*](https://www.linkedin.com/in/natalie-schmer/) - MS, hydrologist at the USGS Pennsylvania Water Science Center
 
-### Miles Austin - former MS student, _________
+#### *Miles Austin* - MS, water quality analyst Wyoming DEQ
  
-### Bryce Pulver - former MS student, currently a BLM hydrologist
+#### *Bryce Pulver* - MS, BLM hydrologist in Utah
 
-### Spencer Rhea - former undergraduate student, currently a data scientist at Duke University
+#### *Spencer Rhea* - BS, data scientist at Duke University

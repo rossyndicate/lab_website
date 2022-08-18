@@ -1,45 +1,44 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I used to be an ecologist, then a watershed biogeochemist, now mostly a data scientist. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Ecology
+    institution: Duke University
+    year: 2017
+  - course: B.A. in Ecology, minor in French
+    institution: University of Colorado at Boulder
+    year: 2010
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-role: Professor of Artificial Intelligence
+- Watershed science
+- Designer ecosystems
+- Data science
+- Data-driven decision making
+role: Assistant Professor of Watershed Science Director of the Geospatial Centroid
 social:
 - display:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
+  label: Twitter
   link: https://twitter.com/MagicalSystems
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=2Oryn1EAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=FjuxZdYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/kathryn-willi
+  link: https://github.com/matthewross07
 
 
 superuser: true
 title: Matthew Ross
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an ecosystem and watershed scientist primarily interested in improving how 
+we use
+data and models to make better decisions about how we design and manage ecosystems. 
+I hope to accomplish this goal by building inclusive and welcoming
+teams and approaches that democratize complex datasets and toolchains. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
