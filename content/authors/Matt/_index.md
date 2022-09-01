@@ -5,7 +5,7 @@ education:
   - course: PhD in Ecology
     institution: Duke University
     year: 2017
-  - course: B.A. in Ecology, minor in French
+  - course: BA in Ecology, minor in French
     institution: University of Colorado at Boulder
     year: 2010
 highlight_name: true

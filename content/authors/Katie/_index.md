@@ -32,10 +32,8 @@ social:
   link: https://github.com/kathryn-willi
 
 
-superuser: false
-title: Katie Willi
+superuser: true
+title: Katie Willi (she/her)
 ---
 
-Katie is the data manager for the Open Eco Data Lab. Her research interests include water quality, watershed hydrology, and environmental policy. Currently, Katie assists the lab on projects involving complex geospatial datasets, the development of R shiny and blogdown products, and managing field work. Before joining the lab, Katie was a fellow with the National Park Service's Water Resources Division.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/willi_resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
+Katie is the data manager for the Open Eco Data Lab. Her research interests include water quality, watershed hydrology, and environmental policy. Currently, Katie assists the lab on projects involving complex geospatial datasets, the development of R shiny and blogdown products, and managing field work. Before joining the lab in a more permanent capacity, Katie was a fellow with the National Park Service's Water Resources Division while receiving her Master's with Matt and Stephanie Kampf as her co-advisers.
