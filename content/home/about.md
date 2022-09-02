@@ -1,28 +1,41 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
-weight: 10
+widget: hero
+headless: false  # This file represents a page section.
+title: 'Greetings from the Ross lab!'
+# ... Put Your Section Options Here (title etc.) ...
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+#hero_media: 'grab.jpg'
+
+design:
+  background:
+    # Name of image in `assets/media/`.
+    image: sat.jpg
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.9
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: center
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    image_parallax: true
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+# cta:
+#   url: 'https://wowchemy.com'
+#   label: Get Started
+#   icon_pack: fas
+#   icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: "Welcome to our lab's webite. We are a Radical Open Science Syndicate located in Colorado State University's Department of Ecosystem Science and Sustainability."
 ---
-
-In the Open Eco Data Lab, we use open data, reproducible workflows, and community partnerships to better understand and, therefore, design and manage (mostly freshwater) ecosystems. Our work is inspired by people in many fields, but the Landscape Architect, John Tillman Lyle may have said it best:
-
-*"The point is that if we are going to design ecosystems,
-and we continually do so whether we care to face
-all of the implications or not, then it will be best
-to design them intentionally, making use of all
-the ecological understanding we can bring to bear."*
-
-Towards this overarching goal, we aspire to: 
- 
-• Work in a fully open scientific environment, with work and data shared as soon as it is developed.
-
-• Find and harmonize dissonant, disparate, and deserted datasets to better understand continental and global scale controls on freshwater ecosystems. 
-
-• Build partnerships with local & regional water resource managers, and guide our research questions around their needs. 
-
-• Democratize insights from complex data through careful and compelling visualizations, videos, and other media.
-
-• Mentor and train students to work in a broad array of fields using modern open science and data science techniques.
-
-• Foster a just, equitable, diverse, and inclusive scientific community.
-

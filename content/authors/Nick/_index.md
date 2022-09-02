@@ -28,7 +28,7 @@ social:
   link: https://github.com/ecogub
 
 superuser: false
-title: Nick Gubbins
+title: Nick Gubbins (he/him)
 ---
 
 Nick is a PhD student studying how applying data science to long-term monitoring data can yield new insights on the global carbon cycle. His research interests include hydrology, water chemistry, and biogeochemistry. Prior to joining the Open Eco Data Lab, Nick worked on stream-gaging for the USGS Ohio-Kentucky-Indiana Water Science Center and as a technician for the Center for Limnology at UW - Madison.

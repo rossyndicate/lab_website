@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About the Lab
-    url: '#about'
-    weight: 10
+  - name: About
+    url: aboot/
+    weight: 20
   - name: People
     url: people/
     weight: 30
@@ -16,8 +16,6 @@ main:
   - name: Courses
     url: courses/
     weight: 40
-  - name: News and Updates
+  - name: News
     url: news/
     weight: 50
-
-    

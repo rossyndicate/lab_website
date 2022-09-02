@@ -32,7 +32,7 @@ social:
   link: https://github.com/kathryn-willi
 
 
-superuser: true
+superuser: false
 title: Katie Willi (she/her)
 ---
 

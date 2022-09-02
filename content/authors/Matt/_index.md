@@ -30,8 +30,8 @@ social:
   link: https://github.com/matthewross07
 
 
-superuser: true
-title: Matthew Ross
+superuser: false
+title: Matthew Ross (he/him)
 ---
 
 I am an ecosystem and watershed scientist primarily interested in improving how 
