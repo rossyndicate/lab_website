@@ -8889,7 +8889,7 @@ html[dir='rtl'] body {
  *  Page Builder: sections and widgets
  **************************************************/
 .home-section {
-  background: #207e79;
+  background: #272935;
   position: relative;
   padding: 110px 0 110px 0;
   z-index: 0; }
