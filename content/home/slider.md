@@ -12,4 +12,3 @@ design:
 ---
 
 {{< gallery album="pics" >}}
-
