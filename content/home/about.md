@@ -1,7 +1,8 @@
 ---
 widget: hero
-headless: false  # This file represents a page section.
-title: 'Greetings from the Ross lab!'
+headless: true  # This file represents a page section.
+weight: 10
+title: "The ROSS lab: a radical open science syndicate located in Colorado State University's Department of Ecosystem Science and Sustainability."
 # ... Put Your Section Options Here (title etc.) ...
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
@@ -12,7 +13,7 @@ design:
     # Name of image in `assets/media/`.
     image: sat.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.9
+    image_darken: 0.95
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -22,7 +23,6 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 
-
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
@@ -31,11 +31,24 @@ design:
 #   label: Get Started
 #   icon_pack: fas
 #   icon: download
-cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+# cta_alt:
+#   url: 'https://wowchemy.com'
+#   label: View Documentation
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "Welcome to our lab's webite. We are a Radical Open Science Syndicate located in Colorado State University's Department of Ecosystem Science and Sustainability."
+  label: ""
 ---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

@@ -17,20 +17,16 @@ role: Communications and Development Manager
 social:
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/willi_kathryn
-- icon: graduation-cap
+  icon: music
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=2Oryn1EAAAAJ&hl=en&oi=ao
+  label: My music website
+  link: https://anikapyle.com 
 - icon: github
   icon_pack: fab
-  link: https://github.com/kathryn-willi
-
+  link: https://github.com/anikapyle
 
 superuser: false
 title: Anika Pyle (she/they)
 ---
 
-Anika is the Communications and Development Manager for the Open Eco Data Lab. She is highly organized, deeply creative, and an absolute goofball. Before joining the lab, she applied her expertise in the non-profit, small business, and cultural sectors. In addition to being a communications professional, Anika is also a touring musician and interdisciplinary artist. 
+Anika is the Communications and Development Manager for the Ross Lab. She is highly organized, deeply creative, and an absolute goofball. Before joining the lab, she applied her expertise in the non-profit, small business, and cultural sectors. In addition to being a communications professional, Anika is also a touring musician and interdisciplinary artist. 

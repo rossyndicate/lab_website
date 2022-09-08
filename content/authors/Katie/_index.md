@@ -12,8 +12,8 @@ education:
 email: "kathryn_willi@colostate.edu"
 highlight_name: true
 interests:
-- Watershed hydrology
-- Water quality
+- Watershed hydrology and water quality
+- Writing
 - Data management
 - Environmental policy
 role: Data Manager
@@ -36,4 +36,4 @@ superuser: false
 title: Katie Willi (she/her)
 ---
 
-Katie is the data manager for the Open Eco Data Lab. Her research interests include water quality, watershed hydrology, and environmental policy. Currently, Katie assists the lab on projects involving complex geospatial datasets, the development of R shiny and blogdown products, and managing field work. Before joining the lab in a more permanent capacity, Katie was a fellow with the National Park Service's Water Resources Division while receiving her Master's with Matt and Stephanie Kampf as her co-advisers.
+Katie is the lab's data manager. Her research interests include watershed hydrology, water quality, and environmental policy. Currently, Katie assists the lab on all sorts of projects, though a common thread within them is the munging and harmonizing of large, and often disparate, datasets. Before becoming a lab manager, Katie was a fellow with the National Park Service's Water Resources Division while receiving her Master's with Matt and [Dr. Stephanie Kampf](https://www.nrel.colostate.edu/investigator/stephanie-kampf-homepage/) as her co-advisers.

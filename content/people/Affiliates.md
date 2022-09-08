@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 60
@@ -8,6 +8,6 @@ weight: 60
 ---
 # Affiliates
 
-### [*Michael Meyer*](https://scholar.google.com/citations?user=r11TyOYAAAAJ&hl=en), Mendenhall Research Geographer at the USGS
+### [*Michael Meyer*](https://scholar.google.com/citations?user=r11TyOYAAAAJ&hl=en), Mendenhall Research Geographer, USGS
 
 ### [*Christian Thomas*](https://skytruth.org/about/team/), Geospatial Engineer, SkyTruth

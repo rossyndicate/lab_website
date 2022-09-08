@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 70
@@ -8,10 +8,10 @@ weight: 70
 
 # Alumni
 
-### Natalie Schmer - former MS student, currently a hydrologist at the USGS Pennsylvania Water Science Center
+### Natalie Schmer - former MS student, currently a hydrologist with the USGS Pennsylvania Water Science Center
 
 ### Miles Austin - former MS student, _________
- 
-### Bryce Pulver - former MS student, currently a BLM hydrologist
+
+### Bryce Pulver - former MS student, currently a hydrologist with the BLM
 
 ### Spencer Rhea - former undergraduate student, currently a data scientist at Duke University

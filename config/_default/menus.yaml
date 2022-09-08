@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: aboot/
+    url: '#aboot'
     weight: 20
   - name: People
     url: people/
@@ -19,3 +19,6 @@ main:
   - name: News
     url: news/
     weight: 50
+  - name: Contact
+    url: contact/
+    weight: 60
