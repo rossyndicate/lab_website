@@ -19,7 +19,7 @@ interests:
 - Scaling ecohydrological processes
 - Trade-offs and co-benefits of reactive interfaces
 - Integrating data science and machine learning with process-based models
-role: Data Manager
+role: Postdoctoral Researcher
 social:
 - display:
     header: true

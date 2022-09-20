@@ -5,7 +5,7 @@ weight: 20
 headless: true
 ---
 
-In the Ross Lab, we use open data, reproducible workflows, and community partnerships to better understand and, therefore, design and manage (mostly freshwater) ecosystems. Our work is inspired by people in many fields, but the Landscape Architect John Tillman Lyle may have said it best:
+In the ROSS Lab, we use open data, reproducible workflows, and community partnerships to better understand and, therefore, design and manage (mostly freshwater) ecosystems. Our work is inspired by people in many fields, but the Landscape Architect John Tillman Lyle may have said it best:
 
 > *"The point is that if we are going to design ecosystems, and we continually do so whether we care to face all of the implications or not, then it will be best to design them intentionally, making use of all the ecological understanding we can bring to bear."*
 
