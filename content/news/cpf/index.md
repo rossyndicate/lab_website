@@ -1,7 +1,7 @@
 ---
 abstract:
 authors:
-date: "September 2022"
+date: "October 2022"
 doi: ""
 featured: true
 image:
@@ -9,20 +9,21 @@ image:
   focal_point: ""
   preview_only: true
 links:
-- name:
-  url: 
+- name: Read the article
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfluPicuYz6jvRPQ09XqRFfiP14Stt8GIahEZGH3IaKfnXFrw/viewform
 # projects:
 # - internal-project
 publication:
 publication_short:
 publication_types:
 slug: 
+external_link: https://docs.google.com/forms/d/e/1FAIpQLSfluPicuYz6jvRPQ09XqRFfiP14Stt8GIahEZGH3IaKfnXFrw/viewform
 
-publishDate: "2022-09-30T00:00:00Z"
+publishDate: "2022-10-03T00:00:00Z"
 slides: 
-summary: Blah blah blah
+summary: On Oct 31, 2022, research teams across disciplines will present their findings on the environmental impacts of the 2020 Colorado Wildfires, the most devastating in the state’s history. Registration is live.
 
-title: Cameron Peak Fire workshop October 31st! 
+title: Life After Fire - Cameron Peak Wildfire Workshop
 url_code: ''
 url_dataset: ''
 url_pdf: ""
@@ -32,5 +33,3 @@ url_slides: ""
 url_source: ''
 url_video: ''
 ---
-
-An article about the CPF.

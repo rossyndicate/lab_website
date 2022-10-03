@@ -21,7 +21,7 @@ external_link: https://www.swansea.ac.uk/press-office/news-events/news/2022/01/s
 
 publishDate: "2022-01-19T00:00:00Z"
 slides: 
-summary: A new spatial database of dams and other river obstructions built partially or fully across the world's largest rivers has been published. Swansea University Press Release.
+summary: Matt Ross contributes to the groundbreaking Global River Obstructions Database and a paper published with Xiao Yang of University of North Carolina. This publicly available data will help us better understand the human impact of dams on our environment.
 
 title: Global River Obstruction Database out now!
 url_code: ''

@@ -21,7 +21,7 @@ external_link: https://eartharxiv.org/repository/view/3423/
 
 publishDate: "2022-09-07T00:00:00Z"
 slides: 
-summary: How have lakes in the region changed color in the last 30 years? Preprint.
+summary: What is the color of lakes in the Rocky Mountain region and how has their color changed over the last 30 years? Matt Ross publishes a paper on the subject with Bella Olesky of the University of Wyoming. 
 
 title: Preprint available for "Heterogenous controls on lake color and trends across the high-elevation US Rocky Mountain Region" 
 url_code: ''
