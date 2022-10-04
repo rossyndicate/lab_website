@@ -5,7 +5,7 @@ weight: 20
 headless: true
 ---
 
-### We use open data, reproducible workflows, and community partnerships to better design and manage (mostly freshwater) ecosystems.
+## **We use open data, reproducible workflows, and community partnerships to better design and manage (mostly freshwater) ecosystems.**
 
 <br>
 
