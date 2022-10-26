@@ -1,0 +1,23 @@
+---
+title: AquaSat
+summary: Building a robust, living matchup  dataset that pairs remote sensing imagery with water quality samples.
+share: FALSE
+author: "Matt"
+date: "2022-10-01"
+tags:
+doi: ""
+url_pdf: ""
+details: 
+keywords: ""
+thumbnail: 'featured.png'
+image:
+  preview_only: FALSE
+output: 
+  html_document
+---
+
+## Building a robust, living matchup dataset that pairs remote sensing imagery with water quality samples.
+
+<br>
+
+Reliable, reproducible, and timely estimates of inland water quality from remote sensing can provide foundational insight to improve water management decisions, empower stakeholders to monitor their waterbodies, and help scientists better understand how inland waterbodies are changing. However, using remote sensing to produce robust estimates of key water quality parameters like chlorophyll a (a proxy for algal biomass), sediment concentrations, dissolved organic carbon, and overall water clarity requires a harmonized, clean, and analysis-ready ground-truth dataset. One such dataset is AquaSat, a database of more than 600,000 "matchups" that pair in-situ water quality grab samples with surface reflectance data from Landsat 5, 7, 8 data over the Continental United States (Ross et al. 2019). The purpose of the proposed work is to dramatically expand and improve AquaSat in three crucial ways. First, we will incorporate more in-situ data from water quality sensors, optically inactive constituents like nutrients, and more data sources from the Water Quality Portal and additional data sources (e.g., LAGOS USA; Soranno et al. 2015). Second, we will create a data quality tiering system to address issues in the original dataset: restrictive-data that is verifiably self-similar across organizations and time-periods and can be considered completely interchangeable; narrowed-data that we have good reason to believe is self-similar, but for which we can't verify full harmony across data providers; inclusive-data, the current level of data provided by AquaSat, where data are assumed to be reliable and harmonized unless obvious differences exist. Third, we will add new satellites and spectral bands to our matchup database, including Sentinel-2, MODIS-AQUA, and Sentinel-3. All of these additional satellites or constellations of satellites have potential use for remote sensing of water quality, and this new work will add them to the AquaSat database. These improvements, along with tutorials and workshops developed by the project, will enable USGS, NASA, and academic researchers to more easily and reliably observe water quality patterns at unprecedented spatial and temporal scales.

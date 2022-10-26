@@ -1,5 +1,5 @@
 ---
-widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
+widget: collection
 headless: true  # This file represents a page section.
 
 title: Projects
