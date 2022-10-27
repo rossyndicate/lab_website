@@ -6,7 +6,13 @@ author: "Fred"
 date: "2022-08-15"
 tags:
 doi: ""
+show_date: FALSE
 url_pdf: ""
+links:
+  - icon_pack: fab
+    icon: github
+    name: Project Repository
+    url: 'https://github.com/OpenEcoDataLab/river_pgdl'
 details: 
 keywords: ""
 thumbnail: 'featured.png'

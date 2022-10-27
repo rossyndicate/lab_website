@@ -13,7 +13,7 @@ interests:
 - Queer ecology
 - Climate justice
 - Nature writing
-role: Communications and Development Manager
+role: Communications + Development Manager
 social:
 - display:
     header: true

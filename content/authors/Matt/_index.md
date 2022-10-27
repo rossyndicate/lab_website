@@ -34,11 +34,7 @@ superuser: false
 title: Matthew Ross (he/him)
 ---
 
-I am an ecosystem and watershed scientist primarily interested in improving how 
-we use
-data and models to make better decisions about how we design and manage ecosystems. 
-I hope to accomplish this goal by building inclusive and welcoming
-teams and approaches that democratize complex datasets and toolchains. 
+I am an ecosystem and watershed scientist primarily interested in improving how we use data and models to make better environmental decisions. I hope to accomplish this goal by building inclusive and welcoming teams and approaches that democratize complex datasets and toolchains.
 
 
 

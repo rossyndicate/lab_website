@@ -1,12 +1,19 @@
 ---
 title: AquaSat
 summary: Building a robust, living matchup  dataset that pairs remote sensing imagery with water quality samples.
+show_date: FALSE
+profile: true
 share: FALSE
-author: "Matt"
+author: ["Matt"]
 date: "2022-10-01"
 tags:
 doi: ""
 url_pdf: ""
+links:
+  - icon_pack: fab
+    icon: github
+    name: Project Repository
+    url: 'https://github.com/GlobalHydrologyLab/AquaSat'
 details: 
 keywords: ""
 thumbnail: 'featured.png'

@@ -8,7 +8,13 @@ tags:
 doi: ""
 url_pdf: ""
 details: 
+show_date: FALSE
 keywords: ""
+links:
+  - icon_pack: fab
+    icon: github
+    name: Project Repository
+    url: 'https://github.com/OpenEcoDataLab/cameron_peak_fire_study'
 thumbnail: 'featured.png'
 image:
   preview_only: FALSE
