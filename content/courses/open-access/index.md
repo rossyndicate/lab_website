@@ -2,6 +2,7 @@
 abstract:
 authors:
 date: "January 2022"
+show_date: FALSE
 doi: ""
 featured: true
 image:

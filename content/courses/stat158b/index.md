@@ -4,6 +4,7 @@ authors:
 date: "September 2022"
 doi: ""
 featured: true
+show_date: FALSE
 image:
   caption: ''
   focal_point: ""
