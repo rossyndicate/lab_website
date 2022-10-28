@@ -29,7 +29,7 @@ social:
 - icon: user
   icon_pack: fas
   label: My personal website
-  link: https://github.com/mbrousil
+  link: https://brousil.science/
 - icon: github
   icon_pack: fab
   link: https://github.com/mbrousil
