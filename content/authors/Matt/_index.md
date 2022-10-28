@@ -5,7 +5,7 @@ education:
   - course: PhD in Ecology
     institution: Duke University
     year: 2017
-  - course: B.A. in Ecology, minor in French
+  - course: BA in Ecology, minor in French
     institution: University of Colorado at Boulder
     year: 2010
 highlight_name: true
@@ -30,15 +30,11 @@ social:
   link: https://github.com/matthewross07
 
 
-superuser: true
-title: Matthew Ross
+superuser: false
+title: Matthew Ross (he/him)
 ---
 
-I am an ecosystem and watershed scientist primarily interested in improving how 
-we use
-data and models to make better decisions about how we design and manage ecosystems. 
-I hope to accomplish this goal by building inclusive and welcoming
-teams and approaches that democratize complex datasets and toolchains. 
+I am an ecosystem and watershed scientist primarily interested in improving how we use data and models to make better environmental decisions. I hope to accomplish this goal by building inclusive and welcoming teams and approaches that democratize complex datasets and toolchains.
 
 
 

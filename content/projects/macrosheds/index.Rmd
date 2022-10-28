@@ -1,0 +1,31 @@
+---
+title: Macrosheds
+summary: Pooling and analyzing hydrobiogeochemistry data from every long-term watershed study in the US.
+share: FALSE
+show_date: FALSE
+author: "Nick"
+date: "2022-01-01"
+tags:
+doi: ""
+url_pdf: ""
+links:
+  - icon_pack: fab
+    icon: github
+    name: Project Repository
+    url: 'https://github.com/MacroSHEDS/macrosheds'
+details: 
+keywords: ""
+thumbnail: 'featured.png'
+image:
+  preview_only: FALSE
+output: 
+  html_document
+---
+
+## Using data science to enable continental-scale watershed synthesis.
+
+<br>
+
+[Macrosheds](https://cuahsi.shinyapps.io/macrosheds/) aims to massively increase the access, use, and analysis of watershed ecosystem data by merging all US watershed ecosystem studies into a common data platform, and by building high-powered data infrastructure and visualization tools around it. This platform will also be used to grow the next generation of watershed scientists through our macro-scale watersheds training camps. Macrosheds is currently being used to investigate and visualize big questions like what types of watersheds are best at retaining nutrients, recovering most rapidly from decades of acid rain, have the highest erosion rates, and have flow patterns that are least sensitive to floods and droughts.
+
+Macrosheds is an NSF funded project and is co-investigated with the [Bernhardt Lab](https://bernhardtlab.weebly.com/) at Duke University.

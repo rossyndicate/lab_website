@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: "custom" #switch from minimal to "custom"
-day_night: true
+theme: "custom" #sitch from minimal to "custom"
+day_night: false
 font: ''
 font_size: "M"
 
@@ -29,13 +29,13 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'January 2, 2006'
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -71,9 +71,9 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
-  notice: 'This work is licensed under {MIT License}'
+  notice: "This work is licensed under {license}"
 abstract_length: 135
 plugins_js: []
 avatar:

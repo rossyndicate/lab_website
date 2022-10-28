@@ -1,28 +1,43 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+widget: hero
+headless: true  # This file represents a page section.
 weight: 10
+title: ''
+        
+#hero_media: 'grab.jpg'
+design:
+  background:
+    # Name of image in `assets/media/`.
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    # Options include `left`, `center` (default), or `right`.
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    image: NewWater.png #sat.jpg
+    #image_darken: 0.95
+    image_size: cover
+    image_position: center
+    image_parallax: true
+    text_color_light: true
+#   cta:
+#     url: ''
+#     label: ''
+#     icon_pack: fas
+#     icon: download
+#   cta_alt:
+#     url: 'https://wowchemy.com'
+#     label: View Documentation
+# cta_note:
+#   label: "Ecosystem Science + Sustainability, Colorado State University"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-In the Open Eco Data Lab, we use open data, reproducible workflows, and community partnerships to better understand and, therefore, design and manage (mostly freshwater) ecosystems. Our work is inspired by people in many fields, but the Landscape Architect, John Tillman Lyle may have said it best:
+<br> <br> <br> <br> <br> <br>
 
-*"The point is that if we are going to design ecosystems,
-and we continually do so whether we care to face
-all of the implications or not, then it will be best
-to design them intentionally, making use of all
-the ecological understanding we can bring to bear."*
+# **ROSS: Radical Open Science Syndicate**
 
-Towards this overarching goal, we aspire to: 
- 
-• Work in a fully open scientific environment, with work and data shared as soon as it is developed.
+### Ecosystem Science + Sustainability, Colorado State University
 
-• Find and harmonize dissonant, disparate, and deserted datasets to better understand continental and global scale controls on freshwater ecosystems. 
-
-• Build partnerships with local & regional water resource managers, and guide our research questions around their needs. 
-
-• Democratize insights from complex data through careful and compelling visualizations, videos, and other media.
-
-• Mentor and train students to work in a broad array of fields using modern open science and data science techniques.
-
-• Foster a just, equitable, diverse, and inclusive scientific community.
-
+<br> <br> <br> <br> <br> <br>
