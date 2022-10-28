@@ -11,14 +11,14 @@ image:
   preview_only: true
 links:
 - name: Read the article
-  url: https://openecodatalab.github.io/Hydrology-Online/
+  url: https://rossyndicate.github.io/Hydrology-Online/
 # projects:
 # - internal-project
 publication:
 publication_short:
 publication_types:
 slug: standardized_methods
-external_link: https://openecodatalab.github.io/Hydrology-Online/
+external_link: https://rossyndicate.github.io/Hydrology-Online/
 
 publishDate: "2022-08-11"
 slides: 

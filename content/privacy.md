@@ -7,6 +7,6 @@ header:
   caption: ""
   image: ""
 share: false
-title: The ROSS Lab, Colorado State University
+title: ROSSyndicate, Colorado State University
 ---
 
