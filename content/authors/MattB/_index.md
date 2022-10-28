@@ -38,5 +38,5 @@ superuser: false
 title: Matt Brousil (he/him)
 ---
 
-Matt is a lead data scientist with the ROSS Lab. He oversees projects integrating open science techniques with large, open water quality and remote sensing datasets. He also specializes in using workflow management techniques to build reproducible workflows in R. Previously, Matt built tools for decision support in integrated pest management and worked on projects spanning the fields of limnology, ecology, entomology, and agriculture.
+Matt is a lead data scientist with the ROSSyndicate. He oversees projects integrating open science techniques with large, open water quality and remote sensing datasets. He also specializes in using workflow management techniques to build reproducible workflows in R. Previously, Matt built tools for decision support in integrated pest management and worked on projects spanning the fields of limnology, ecology, entomology, and agriculture.
 
