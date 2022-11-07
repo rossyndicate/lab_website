@@ -13,7 +13,7 @@ design:
     # Options include `left`, `center` (default), or `right`.
     # Use a fun parallax-like fixed background effect on desktop? true/false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    image: NewWater.png #sat.jpg
+    image: funk.png 
     #image_darken: 0.95
     image_size: cover
     image_position: center
