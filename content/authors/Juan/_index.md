@@ -10,7 +10,7 @@ interests:
 - Data science
 - Remote environmental monitoring
 - Data driven decision making
-role: Environmental Data Analyst at the ROSSyndicate
+role: Environmental Data Analyst
 social:
 - display:
     header: true
