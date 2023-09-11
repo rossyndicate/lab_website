@@ -8,7 +8,7 @@ education:
   - course: MSc in Sustainable Water Environments
     institution: University of Glasgow
     year: 2022
-  - course: BS in Watershed Science, minor in Sustainable Water interdisciplinary studies, minor in Global Environmental Sustainability 
+  - course: BS in Watershed Science, minor in Sustainable Water interdisciplinary Minor, minor in Global Environmental Sustainability 
     institution: Colorado State University
     year: 2020
 highlight_name: true
