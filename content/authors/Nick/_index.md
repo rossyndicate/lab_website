@@ -12,7 +12,7 @@ interests:
 - Data science and visualization
 - Biogeochemistry
 - Chemical weathering
-role: PhD Candidate in Watershed Science
+role: Ph.D. Candidate in Watershed Science
 social:
 - display:
     header: true

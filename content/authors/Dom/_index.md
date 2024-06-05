@@ -18,7 +18,7 @@ interests:
 - Data science
 - Deep learning algorithms
 - Ecology
-role: Ph.D. student in Watershed Science
+role: Ph.D. Candidate in Watershed Science
 social:
 - display:
     header: true
