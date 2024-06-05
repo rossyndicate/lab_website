@@ -9,7 +9,7 @@ highlight_name: true
 interests:
 - Data science
 - Remote environmental monitoring
-- Data driven decision making
+- Data-driven decision making
 role: Environmental Data Analyst
 social:
 - display:

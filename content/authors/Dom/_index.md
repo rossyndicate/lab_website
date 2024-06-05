@@ -13,10 +13,10 @@ education:
     year: 2020
 highlight_name: true
 interests:
-- Watershed Science
-- Remote Sensing
+- Watershed science
+- Remote sensing
 - Data science
-- Deep Learning Algorithms
+- Deep learning algorithms
 - Ecology
 role: Ph.D. student in Watershed Science
 social:

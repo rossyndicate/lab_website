@@ -12,18 +12,14 @@ education:
 email: "kathryn_willi@colostate.edu"
 highlight_name: true
 interests:
-- Watershed hydrology and water quality
-- Writing
-- Data management
+- Approachable scientific writing
+- Workflow development and data management
 - Environmental policy
-role: Lab + Data Manager
+- Water sustainability
+role: Data Scientist + Lab Manager
 social:
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/willi_kathryn
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=2Oryn1EAAAAJ&hl=en&oi=ao
@@ -36,4 +32,4 @@ superuser: false
 title: Katie Willi (she/her)
 ---
 
-Katie is the lab's data manager. Currently, Katie assists the lab on all sorts of projects, though a common thread within them is the munging and harmonizing of large datasets. Before becoming a lab manager, Katie was a fellow with the National Park Service's Water Resources Division while receiving her Master's with Matt and [Dr. Stephanie Kampf](https://www.nrel.colostate.edu/investigator/stephanie-kampf-homepage/) as her co-advisers.
+Katie is the lab's manager and is currently pursuing a Ph.D. in Watershed Science. Katie assists the lab on all sorts of projects, though a common thread within them is the munging and harmonizing of large datasets. Katie also co-teaches an environmental data science course (ESS 523a) that equips students with coding skills to make their research more efficient and less stressful. 
